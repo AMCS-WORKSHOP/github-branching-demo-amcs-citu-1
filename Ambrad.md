@@ -7,7 +7,7 @@
 - **Connections**: 316
 
 ### Summary
-I am passionate about tackling technical problems and processes[^1^][1].
+I love my cat and running.
 
 ### Experience
 - **Technical Team Lead** @ AMCS Group
