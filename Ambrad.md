@@ -7,7 +7,7 @@
 - **Connections**: 316
 
 ### Summary
-I am passionate about tackling technical problems and processes[^1^][1].
+I am passionate about tackling technical problems and processes[^1^][1]. charis lang.
 
 ### Experience
 - **Technical Team Lead** @ AMCS Group
