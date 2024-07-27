@@ -7,7 +7,7 @@
 - **Connections**: 316
 
 ### Summary
-I love my cat and running.
+I love my cat and running. charis lang.
 
 ### Experience
 - **Technical Team Lead** @ AMCS Group
